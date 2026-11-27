@@ -14,6 +14,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, and pro
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/TharunKumar7822/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/TharunKumar7822/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
